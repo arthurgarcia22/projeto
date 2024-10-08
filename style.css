@@ -13,6 +13,5 @@ footer{
     position: fixed;
     bottom:0;
     background-color: var(--preto);
-    width: 100%;
-    text-align: center;
+     text-align: center;
 }
