@@ -1,17 +1,20 @@
 :root{
-    --fundo:#48D1CC;
-    --cartao-frente:#008B8B;
-    --cartao-verso:#5F9EA0;
-    --destaque:#7B68EE;
-    --preto:#000000;
-    --branco:#F8F8FF;
-}
-body{
-    background-color: var(--fundo);
-}
-footer{
-    position: fixed;
-    bottom:0;
-    background-color: var(--preto);
-     text-align: center;
-}
+    --fundo: #d5c3ee;
+    --cartao-frente: #483d8b;
+    --cartao-verso: #242424;
+    --destaque: rgb(255,123,0);
+    --preto: #000000;
+    --branco: #ffffff;
+   }
+   body{
+       background-color: var(--fundo);
+   
+   }
+   footer{
+       position: fixed;
+       bottom: 0;
+       background-color: var(--preto);
+       color: var(--branco);
+       width: 100%;
+       text-align: center;
+   }
