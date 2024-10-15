@@ -13,7 +13,7 @@
    footer{
        position: fixed;
        bottom: 0;
-       background-color: var(--preto);
+       background-color: #393535;
        color: var(--branco);
        width: 100%;
        text-align: center;
