@@ -5,7 +5,7 @@ criaCartao(
     )
 
 criaCartao(
-    Matemática' 
+    'Matemática' 
     'Como se calcula a soma de dois números?' 
     'Utiliza-se a fórmula: (a1 + a2)' 
     )
@@ -19,7 +19,7 @@ criaCartao(
     criaCartao(
     'História' 
     'Quem foi o responsável pelo Descobrimento do Brasil?'
-    'Pedro Álvares Cabral, em 1500’ 
+    'Pedro Álvares Cabral, em 1500' 
     )
 
     criaCartao(
