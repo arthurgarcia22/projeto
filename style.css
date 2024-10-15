@@ -1,10 +1,10 @@
 :root{
-    --fundo: #d5c3ee;
-    --cartao-frente: #483d8b;
+    --fundo: #6A5ACD;
+    --cartao-frente: hsl(248, 82%, 81%);
     --cartao-verso: #242424;
-    --destaque: rgb(255,123,0);
-    --preto: #000000;
-    --branco: #ffffff;
+    --destaque: rgb(222, 143, 69);
+    --preto: #e60202;
+    --branco: #f1bcbc;
    }
    body{
        background-color: var(--fundo);
