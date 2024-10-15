@@ -2,9 +2,9 @@
     --fundo: #6A5ACD;
     --cartao-frente: hsl(248, 82%, 81%);
     --cartao-verso: #242424;
-    --destaque: rgb(222, 143, 69);
-    --preto: #e60202;
-    --branco: #f1bcbc;
+    --destaque: #ff0000;
+    --preto: #000000;
+    --branco: #ffffff;
    }
    body{
        background-color: var(--fundo);
