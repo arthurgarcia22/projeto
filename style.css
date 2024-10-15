@@ -2,8 +2,8 @@
     --fundo: #6A5ACD;
     --cartao-frente: hsl(248, 82%, 81%);
     --cartao-verso: #242424;
-    --destaque: #ff0000;
-    --preto: #000000;
+    --destaque: #ffffff;
+    --preto: #fca1a1;
     --branco: #ffffff;
    }
    body{
