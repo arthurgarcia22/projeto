@@ -56,6 +56,8 @@
     margin-top: 4rem;
     font-size: 1.4vw;
     padding: 2rem;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
  
 .perguntacartao{
@@ -66,4 +68,8 @@
 .respostacartao{
     color: var(--preto);
     font-weight: 700;
+}
+
+.cartao:hover .conteudo-cartao{
+transform: rotateY(180deg);
 }
