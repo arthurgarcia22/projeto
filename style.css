@@ -70,6 +70,8 @@
     color: var(--preto);
     font-weight: 700;
     transform: rotateY(180deg);
+    background-color: var(--cartao-verso);
+    border: 2px solid var(--destaque);
 }
 
 .cartao:hover .conteudo-cartao{
