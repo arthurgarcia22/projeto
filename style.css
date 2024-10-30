@@ -74,7 +74,7 @@
     border: 2px solid var(--destaque);
 }
 
-.cartao:hover .conteudo-cartao{
+.cartao.active .conteudo-cartao{
 transform: rotateY(180deg);
 }
 
