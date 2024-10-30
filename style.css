@@ -69,7 +69,7 @@
 .respostacartao{
     color: var(--preto);
     font-weight: 700;
-    
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
