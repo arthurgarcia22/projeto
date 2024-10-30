@@ -69,6 +69,7 @@
 .respostacartao{
     color: var(--preto);
     font-weight: 700;
+    
 }
 
 .cartao:hover .conteudo-cartao{
@@ -77,4 +78,9 @@ transform: rotateY(180deg);
 
 .perguntacartao, .respostacartao{
     backface-visibility: hidden;
+    position:absolute;
+    height: 100%;
+    width: 100%;
+
+
 }
