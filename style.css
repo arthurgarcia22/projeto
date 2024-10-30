@@ -10,6 +10,12 @@
        background-color: var(--fundo);
    
    }
+   header{
+    background-color: var(--preto);
+    padding: 40px;
+    display: flex
+    justify-content: space-around;
+   }
    footer{
        position: fixed;
        bottom: 0;
