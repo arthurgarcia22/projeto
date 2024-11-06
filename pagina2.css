@@ -32,3 +32,15 @@
     gap: 3rem;
     justify-content: space-between;
    }
+
+   .conteudo-cartao{
+    padding: 40px;
+    background-color: var(--cartao-frente);
+    color: var(--branco);
+    box-shadow: 8px 8px 25px var(--preto);
+   }
+
+   .resposta-cartao{
+    padding: 40px;
+    background-color: var(--cartao-verso);
+   }
